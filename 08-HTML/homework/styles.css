@@ -1,23 +1,17 @@
-.divClass h1{  
-    color: rgb(231, 53, 231);
+h1{
+    color: blueviolet;
  }
-
- .divClass #spanId{
-    font-size: 18px;
-    margin: 50px;
-}
-
- #trirdDiv{
-     height: 600px;
-     width: 500px;
-     background-color: rgb(18, 129, 23);
-     padding: 50px;
-     border: 4px cornflowerblue;
+ img{
+   width: 400px;
  }
-   
-
- #trirdDiv ul li img{ 
-     width: 400px;
+ #thirdDiv {
+   height: 600px;
+   width: 500px;
+   background-color: mediumorchid;
+   padding: 50px;
+   border: 20px solid blue;
  }
-
- 
+ #spanId{
+   font-size: 18px;
+   margin: 50px;
+   }
